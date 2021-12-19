@@ -1,0 +1,25 @@
+body {
+  background-color: pink;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 7px;
+  width: 10%;
+}
+
+img {
+  height: 240px;
+}
+
+h1 {
+  color: white;
+  font-family: "Goudy Bookletter 1911", sans-serif;
+}
+
+h3 {
+  color: white;
+  font-family: "Goudy Bookletter 1911", sans-serif;
+}
